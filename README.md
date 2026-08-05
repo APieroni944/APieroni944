@@ -14,7 +14,7 @@ I design and build high-speed simulations and low-latency data systems for motor
 
 ## 🛠️ What I Do
 
-Write your content he**System Performance:** Engineering high-speed deterministic simulations, vehicle dynamics engines, and strategy solvers using **Rust**.
+**System Performance:** Engineering high-speed deterministic simulations, vehicle dynamics engines, and strategy solvers using **Rust**.
 
 **Data & Automation:** Building real-time telemetry data pipelines, predictive models, and rapid analytics prototypes using **Python**.
 
