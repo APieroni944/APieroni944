@@ -32,9 +32,9 @@ Write your content he**System Performance:** Engineering high-speed deterministi
 
 ## Major projects
 
-**f1strat** parallel Monte Carlo style f1 race strategy simulation written in rust using Rayon and python/FastF1 for data ingestion
+**f1strat:**  parallel Monte Carlo style f1 race strategy simulation written in rust using Rayon and python/FastF1 for data ingestion
 
-**LatticeBoltzmannCFD** parallel Lattice Boltzmann CFD engine written in rust using Rayon
+**LatticeBoltzmannCFD:**  parallel Lattice Boltzmann CFD engine written in rust using Rayon
 
 ---
 
