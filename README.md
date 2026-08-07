@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&height=30&lines=CS%20Student%20%40%20Emeris%3BOpen%20to%20internships%20%26%20collaborations!%3BMotorsport%20enthusiast" alt="Typing SVG" />
 </div>
 
-I aim to design and build high-speed simulations and low-latency data systems for motorsport applications. I focus on translating complex vehicle physics, telemetry data, and race strategies into highly optimized software where every millisecond matters.
+I aim to design and build high-speed simulations and low-latency data systems for motorsport applications. I focus on translating complex vehicle physics, telemetry data, and race strategies into highly optimized software where every millisecond counts.
 
 ---
 
@@ -22,19 +22,19 @@ I aim to design and build high-speed simulations and low-latency data systems fo
 
 ## 🛠️ What I Do
 
-Write your content he**System Performance:** Engineering high-speed deterministic simulations, vehicle dynamics engines, and strategy solvers using **Rust**.
+**System Performance:** Engineering high-speed deterministic simulations, vehicle dynamics engines, and strategy solvers using **Rust**.
 
 **Data & Automation:** Building real-time telemetry data pipelines, predictive models, and rapid analytics prototypes using **Python**.
 
-**Robust Architecture:** Developing scalable distributed systems and data storage tools utilizing **Java** and **SQL**.
+**Robust Architecture:** Developing scalable and maintainable systems and data storage tools utilizing **Java** and **SQL**.
 
 ---
 
 ## Major projects
 
-**f1strat:**  parallel Monte Carlo style f1 race strategy simulation written in rust using Rayon and python/FastF1 for data ingestion
+**f1strat:**  concurrent Monte Carlo style f1 race strategy simulation written in rust using Rayon and python/FastF1 for data ingestion
 
-**LatticeBoltzmannCFD:**  parallel Lattice Boltzmann CFD engine written in rust using Rayon
+**LatticeBoltzmannCFD:**  concurrent Lattice Boltzmann CFD engine written in rust using Rayon
 
 ---
 
