@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&height=30&lines=CS%20Student%20%40%20Emeris%3BOpen%20to%20internships%20%26%20collaborations!%3BMotorsport%20enthusiast" alt="Typing SVG" />
 </div>
 
-I aim to design and build high-speed simulations and low-latency data systems for motorsport applications. I focus on translating complex vehicle physics, telemetry data, and race strategies into highly optimized software where every millisecond counts.
+I aim to design and build high-speed simulations and low-latency data systems for motorsport applications. I focus on translating complex problems into actionable insights via the use of highly optimized software in an industry where every tenth of a second counts.
 
 ---
 
 ## 💻 Core Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,rust,linux&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,linux,mysql&perline=10&theme=dark" />
 </div>
 
 ---
